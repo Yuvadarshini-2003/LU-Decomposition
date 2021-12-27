@@ -45,9 +45,9 @@ print(x)
 ```
 
 ## Output:
-![GitHub Logo](Screenshot (1).png)
+![GitHub Logo](one.png)
 
-![GitHub Logo](Screenshot (2).png)
+![GitHub Logo](two.png)
 
 
 ## Result:
