@@ -45,8 +45,9 @@ print(x)
 ```
 
 ## Output:
+1.LU Decomposition to find L and U matrix.
 ![GitHub Logo](one.png)
-
+2.Program to solve a matrix using LU decomposition
 ![GitHub Logo](two.png)
 
 
